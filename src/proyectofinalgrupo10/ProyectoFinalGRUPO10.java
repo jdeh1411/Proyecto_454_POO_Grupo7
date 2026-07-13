@@ -14,7 +14,7 @@ public class ProyectoFinalGRUPO10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola");
+        
     }
     
 }
